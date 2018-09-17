@@ -1,0 +1,59 @@
+{
+    "movies" : [
+        {"id" : "annabelle"},
+        {"id" : "boy"},
+        {"id" : "gonegirl"},
+        {"id" : "johnwick"},
+        {"id" : "opphan"}
+    ],
+    "annabelle" : [
+        { "id": "A1" , "seated" : true , "price": 120},
+        { "id": "A2" , "seated" : false , "price": 120},
+        { "id": "A3" , "seated" : false , "price": 120},
+        { "id": "A4" , "seated" : false , "price": 120},
+        { "id": "A5" , "seated" : false , "price": 120},
+        { "id": "A6" , "seated" : false , "price": 120},
+        { "id": "B1" , "seated" : false , "price": 200},
+        { "id": "B2" , "seated" : false , "price": 200}
+    ],
+    "boy" : [
+        { "id": "A1" , "seated" : false , "price": 120},
+        { "id": "A2" , "seated" : false , "price": 120},
+        { "id": "A3" , "seated" : false , "price": 120},
+        { "id": "A4" , "seated" : false , "price": 120},
+        { "id": "A5" , "seated" : true , "price": 120},
+        { "id": "A6" , "seated" : false , "price": 120},
+        { "id": "B1" , "seated" : false , "price": 200},
+        { "id": "B2" , "seated" : false , "price": 200}
+    ],
+    "gonegirl" : [
+        { "id": "A1" , "seated" : false , "price": 120},
+        { "id": "A2" , "seated" : false , "price": 120},
+        { "id": "A3" , "seated" : false , "price": 120},
+        { "id": "A4" , "seated" : false , "price": 120},
+        { "id": "A5" , "seated" : false , "price": 120},
+        { "id": "A6" , "seated" : true , "price": 120},
+        { "id": "B1" , "seated" : true , "price": 200},
+        { "id": "B2" , "seated" : false , "price": 200}
+    ],
+    "johnwick" : [
+        { "id": "A1" , "seated" : false , "price": 120},
+        { "id": "A2" , "seated" : false , "price": 120},
+        { "id": "A3" , "seated" : false , "price": 120},
+        { "id": "A4" , "seated" : false , "price": 120},
+        { "id": "A5" , "seated" : false , "price": 120},
+        { "id": "A6" , "seated" : false , "price": 120},
+        { "id": "B1" , "seated" : false , "price": 200},
+        { "id": "B2" , "seated" : false , "price": 200}
+    ],
+    "opphan" : [
+        { "id": "A1" , "seated" : false , "price": 120},
+        { "id": "A2" , "seated" : false , "price": 120},
+        { "id": "A3" , "seated" : false , "price": 120},
+        { "id": "A4" , "seated" : false , "price": 120},
+        { "id": "A5" , "seated" : false , "price": 120},
+        { "id": "A6" , "seated" : true , "price": 120},
+        { "id": "B1" , "seated" : false , "price": 200},
+        { "id": "B2" , "seated" : false , "price": 200}
+    ]
+}
